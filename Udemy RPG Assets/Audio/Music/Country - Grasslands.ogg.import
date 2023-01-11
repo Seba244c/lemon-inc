@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Country - Grasslands.ogg-b918f5b33e208e8f6256e8b1220f0472.oggstr"
+
+[deps]
+
+source_file="res://Udemy RPG Assets/Audio/Music/Country - Grasslands.ogg"
+dest_files=[ "res://.import/Country - Grasslands.ogg-b918f5b33e208e8f6256e8b1220f0472.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

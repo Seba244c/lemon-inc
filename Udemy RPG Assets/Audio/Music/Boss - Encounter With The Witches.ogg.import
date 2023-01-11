@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Boss - Encounter With The Witches.ogg-4171bc140c5db2efc22f7ad65b532e81.oggstr"
+
+[deps]
+
+source_file="res://Udemy RPG Assets/Audio/Music/Boss - Encounter With The Witches.ogg"
+dest_files=[ "res://.import/Boss - Encounter With The Witches.ogg-4171bc140c5db2efc22f7ad65b532e81.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

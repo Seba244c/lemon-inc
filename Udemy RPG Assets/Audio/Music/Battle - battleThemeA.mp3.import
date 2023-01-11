@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Battle - battleThemeA.mp3-277f8ed83def9e415b35e5586f73b53c.mp3str"
+
+[deps]
+
+source_file="res://Udemy RPG Assets/Audio/Music/Battle - battleThemeA.mp3"
+dest_files=[ "res://.import/Battle - battleThemeA.mp3-277f8ed83def9e415b35e5586f73b53c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

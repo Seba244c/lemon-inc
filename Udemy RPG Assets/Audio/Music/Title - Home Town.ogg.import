@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Title - Home Town.ogg-2e6868dd11eca2e510fe08177ebf74f9.oggstr"
+
+[deps]
+
+source_file="res://Udemy RPG Assets/Audio/Music/Title - Home Town.ogg"
+dest_files=[ "res://.import/Title - Home Town.ogg-2e6868dd11eca2e510fe08177ebf74f9.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

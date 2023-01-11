@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/UseItem2.wav-587d8604fac14e16b796bf57b864a577.sample"
+
+[deps]
+
+source_file="res://Udemy RPG Assets/Audio/SFX/UseItem2.wav"
+dest_files=[ "res://.import/UseItem2.wav-587d8604fac14e16b796bf57b864a577.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
