@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Inner.png-4ff56aa7a7993c682e7d1664abe0fbb2.stex"
+path="res://.import/character.png-c4a63a71c0b2a7f23ba467527c145280.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Udemy RPG Assets/Art/gfx by ArMM1998/Inner.png"
-dest_files=[ "res://.import/Inner.png-4ff56aa7a7993c682e7d1664abe0fbb2.stex" ]
+source_file="res://Player/character.png"
+dest_files=[ "res://.import/character.png-c4a63a71c0b2a7f23ba467527c145280.stex" ]
 
 [params]
 

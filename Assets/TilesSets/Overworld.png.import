@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/objects.png-4c28be9d6dc71a26704e92095ab63e06.stex"
+path="res://.import/Overworld.png-2ec6782c9c958be95e512cf03c3ba24e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Udemy RPG Assets/Art/gfx by ArMM1998/objects.png"
-dest_files=[ "res://.import/objects.png-4c28be9d6dc71a26704e92095ab63e06.stex" ]
+source_file="res://Assets/TilesSets/Overworld.png"
+dest_files=[ "res://.import/Overworld.png-2ec6782c9c958be95e512cf03c3ba24e.stex" ]
 
 [params]
 

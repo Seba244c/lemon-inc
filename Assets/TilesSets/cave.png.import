@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cave.png-ac782b0eab1e086c7e5f8289af5091f2.stex"
+path="res://.import/cave.png-55b0828c75fdc9113654246a12e3bd56.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Udemy RPG Assets/Art/gfx by ArMM1998/cave.png"
-dest_files=[ "res://.import/cave.png-ac782b0eab1e086c7e5f8289af5091f2.stex" ]
+source_file="res://Assets/TilesSets/cave.png"
+dest_files=[ "res://.import/cave.png-55b0828c75fdc9113654246a12e3bd56.stex" ]
 
 [params]
 
