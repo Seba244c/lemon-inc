@@ -26,3 +26,7 @@ func _process(delta):
 #		velocity = velocity.move_toward(Vector2.ZERO, FRICTION * delta) 
 	
 	move_and_slide(velocity)
+
+func tpToTransition(trans):
+	position.x = trans.global_position.x
+	position.y = trans.global_position.y
