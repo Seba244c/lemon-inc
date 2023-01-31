@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/risk-136788(cave).mp3-31575297a1007421e681acf1f7779fe4.mp3str"
+
+[deps]
+
+source_file="res://Assets/risk-136788(cave).mp3"
+dest_files=[ "res://.import/risk-136788(cave).mp3-31575297a1007421e681acf1f7779fe4.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
