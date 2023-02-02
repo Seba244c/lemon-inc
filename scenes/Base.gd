@@ -6,7 +6,7 @@ func _ready():
 	var startingScene = startingSceneResource.instance()
 
 	add_child(startingScene)
-
+	#load_game()
 
 func changeSceneTo(sceneName, posGoal):
 	var current = get_child(0)

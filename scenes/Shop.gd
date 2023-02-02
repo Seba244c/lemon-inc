@@ -1,7 +1,7 @@
 extends Node2D
 
 var buildMode = false
-onready var floorTiles = get_node("Floor Tiles/TileMap")
+onready var floorTiles = get_node("Floor Tiles/Floor TileMap")
 onready var shopGUI = get_node("ShopGUI")
 onready var floorTileSelect = get_node("ShopGUI/Panel/TabContainer/Floor Tiles/ScrollContainer/HBoxContainer")
 
@@ -39,3 +39,5 @@ func _unhandled_input(e):
 			
 			var currentTile = floorTiles.get_cellv(cell)
 			floorTiles.set_cellv(cell, floorTileSelect.currentTileID);
+
+
