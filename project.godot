@@ -24,6 +24,10 @@ config/name="Lemon INC"
 run/main_scene="res://scenes/Base.tscn"
 config/icon="res://icon.png"
 
+[autoload]
+
+JsonData="*res://scenes/jsonData.gd"
+
 [display]
 
 window/size/width=320
