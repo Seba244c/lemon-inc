@@ -18,3 +18,8 @@ func buildMode(enabled):
 		typeSelection.hide()
 		t = "Press b to enter build mode"
 	buildModeText.text = t
+
+var currentBuildType = 0
+func _on_TabContainer_tab_changed(tab):
+	print("Swtiched to " + str(tab))
+	currentBuildType = tab

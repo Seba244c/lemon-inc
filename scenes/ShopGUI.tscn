@@ -75,6 +75,19 @@ size_flags_vertical = 3
 script = ExtResource( 3 )
 
 [node name="Furniture" type="Container" parent="Panel/TabContainer"]
-visible = false
-margin_right = 40.0
-margin_bottom = 40.0
+margin_left = 4.0
+margin_top = 32.0
+margin_right = 1020.0
+margin_bottom = 156.0
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Panel/TabContainer/Furniture"]
+margin_right = 1000.0
+margin_bottom = 124.0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Panel/TabContainer/Furniture/ScrollContainer"]
+margin_right = 1000.0
+margin_bottom = 124.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[connection signal="tab_changed" from="Panel/TabContainer" to="." method="_on_TabContainer_tab_changed"]

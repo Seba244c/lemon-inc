@@ -1,7 +1,7 @@
 extends HBoxContainer
 
 onready var floorTileSet = load("res://Assets/TilesSets/InnerTiles.tres")
-var currentTileID = -1;
+var currentTileID = -1
 
 func tileFromTileSet(tileId: int, tileSet: TileSet):
 	var tileSetTexture = tileSet.tile_get_texture(tileId)
