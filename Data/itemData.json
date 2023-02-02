@@ -1,0 +1,12 @@
+{
+	"test_item": {
+		"itemCategory": "Wepone",
+		"StackSize": 6,
+		"description": "Nice"
+	},
+	"shield": {
+		"itemCategory": "Defens",
+		"StackSize": 1,
+		"description": "Very Nice"
+	}
+}
