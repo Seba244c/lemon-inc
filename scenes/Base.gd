@@ -2,11 +2,11 @@ extends Node2D
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
-	var startingSceneResource = load("res://scenes/world.tscn")
+	var startingSceneResource = load("res://scenes/shop.tscn")
 	var startingScene = startingSceneResource.instance()
 
 	add_child(startingScene)
-
+	#load_game()
 
 func changeSceneTo(sceneName, posGoal):
 	var current = get_child(0)
